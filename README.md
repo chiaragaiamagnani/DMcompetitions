@@ -1,2 +1,2 @@
 # DMcompetitions
-https://chiaragaiamagnani/DMcompetitions/
+https://chiaragaiamagnani.github.io
